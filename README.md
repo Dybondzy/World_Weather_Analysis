@@ -58,7 +58,22 @@ Add pop-up markers to the heatmap that display information about the city, curre
 
 Your project planning document is prepared, approved, and pinned above your computer. You're ready to get going on the first step: creating a list of over 1,500 latitudes and longitudes.
 
+...
+
 But wait. Which one runs north to south? Latitude or longitude? And which one runs east to west? And how exactly do these work, again? As a professional in the world of data, you are no stranger to employing Google-fu when faced with a problem, so you decide to do a quick self-taught review.
 
 
+After exporting your CSV file, you closed your laptop and headed home, confident in a good day's work.
+
+And, when you come into work the next day, you hear that someone else has been impressed with your work as well—Jack! In fact, Jack is so impressed that he wants to give you the opportunity to take the day to dedicate some time to a different project: creating a community outreach website for middle school STEM students.
+
+This is an exciting project. These community-focused opportunities don't come around as often as you would like, and they are a great chance to get kids involved in STEM. Additionally, you work with other tech companies in the area, each taking on one aspect of the project.
+
+Your company is going to focus on climate change, and since you know how to use Matplotlib, you decide to create some visualizations that showcase the weather parameters you retrieved with changing latitude for the 500-plus cities from all over the world. The students will then be able to use these visualizations to explore how weather parameters change based on latitude.
+
+---
+
+We are going to create a series of scatter plots for each weather parameter against the latitude for all the cities. The students will use these scatter plots to write a summary report on how different weather parameters change based on the latitude.
+
+We'll create scatter plots for latitude vs. maximum temperature, humidity, cloudiness, and wind speed. The first, latitude vs. maximum temperature, should look like the following scatter plot.
 
