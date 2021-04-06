@@ -298,7 +298,7 @@ The WeatherPy_vacation.csv file
 https://github.com/Dybondzy/World_Weather_Analysis/blob/main/WeatherPy_vacation.csv
 
 The WeatherPy_vacation_map.png image
-https://github.com/Dybondzy/World_Weather_Analysis/blob/main/WeatherPy_vacation.png
+
 I got this email about exhausting my Weather API Key
 ------------------
 OpenWeatherMap API usage alert
