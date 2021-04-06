@@ -304,8 +304,12 @@ https://github.com/Dybondzy/World_Weather_Analysis/blob/main/WeatherPy_vacation.
 The Vacation_Itinerary folder with the following:
 
 The Vacation_Itinerary.ipynb file
+https://github.com/Dybondzy/World_Weather_Analysis/blob/main/Vacation_Itinerary.ipynb
+
 The WeatherPy_travel_map.png image
+
 The WeatherPy_travel_map_markers.png image
+
 A README.md that describes the purpose of the repository. Although there is no graded written analysis for this challenge, it is encouraged and good practice to add a brief description of your project
 
 
