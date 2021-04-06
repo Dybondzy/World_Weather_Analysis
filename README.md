@@ -283,8 +283,13 @@ Upload the following to your WeatherPy GitHub repository:
 The Weather_Database folder with the following:
 
 The Weather_Database.ipynb file
+https://github.com/Dybondzy/World_Weather_Analysis/blob/main/WeatherPy_Database.ipynb
+
 The WeatherPy_Database.csv file
+https://github.com/Dybondzy/World_Weather_Analysis/blob/main/WeatherPy_Database.csv
+
 The Vacation_Search folder with the following:
+https://github.com/Dybondzy/World_Weather_Analysis/blob/main/WeatherPy_Database.csv
 
 The Vacation_Search.ipynb file
 The WeatherPy_vacation.csv file
