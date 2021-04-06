@@ -295,8 +295,12 @@ The Vacation_Search.ipynb file
 https://github.com/Dybondzy/World_Weather_Analysis/blob/main/Vacation_Search.ipynb
 
 The WeatherPy_vacation.csv file
+https://github.com/Dybondzy/World_Weather_Analysis/blob/main/WeatherPy_vacation.csv
 
 The WeatherPy_vacation_map.png image
+https://github.com/Dybondzy/World_Weather_Analysis/blob/main/WeatherPy_vacation.png
+
+
 The Vacation_Itinerary folder with the following:
 
 The Vacation_Itinerary.ipynb file
