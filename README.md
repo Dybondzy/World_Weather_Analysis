@@ -299,7 +299,26 @@ https://github.com/Dybondzy/World_Weather_Analysis/blob/main/WeatherPy_vacation.
 
 The WeatherPy_vacation_map.png image
 https://github.com/Dybondzy/World_Weather_Analysis/blob/main/WeatherPy_vacation.png
+I got this email about exhausting my Weather API Key
+------------------
+OpenWeatherMap API usage alert
+Inbox
 
+OWM Team <robot4@openweathermap.org> Unsubscribe
+Wed, Mar 31, 10:40 PM (5 days ago)
+to me
+
+OpenWeatherMap.org
+Your API key is blocked.
+Dear Customer,
+Your OpenWeatherMap API key ebac32a8750efc621be91692e8f18758 is temporary blocked due to the continual sufficient exceeding of the calls per minute limit by performing 603 requests within a minute but the limit for the Free account is 60 rpm.
+
+To unblock your API key and restore the normal operation with the weather API we ask you to surpress the loading from your API keys or upgrade your subscription. Contact us info@openweathermap.org for any help with choosing the proper type of the subscription.
+
+Best regards,
+OpenWeatherMap team
+info@openweathermap.org
+------------------
 
 The Vacation_Itinerary folder with the following:
 
@@ -311,5 +330,5 @@ The WeatherPy_travel_map.png image
 The WeatherPy_travel_map_markers.png image
 
 A README.md that describes the purpose of the repository. Although there is no graded written analysis for this challenge, it is encouraged and good practice to add a brief description of your project
-
+https://github.com/Dybondzy/World_Weather_Analysis#readme
 
