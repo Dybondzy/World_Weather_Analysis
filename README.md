@@ -288,11 +288,14 @@ https://github.com/Dybondzy/World_Weather_Analysis/blob/main/WeatherPy_Database.
 The WeatherPy_Database.csv file
 https://github.com/Dybondzy/World_Weather_Analysis/blob/main/WeatherPy_Database.csv
 
+
 The Vacation_Search folder with the following:
-https://github.com/Dybondzy/World_Weather_Analysis/blob/main/WeatherPy_Database.csv
 
 The Vacation_Search.ipynb file
+https://github.com/Dybondzy/World_Weather_Analysis/blob/main/Vacation_Search.ipynb
+
 The WeatherPy_vacation.csv file
+
 The WeatherPy_vacation_map.png image
 The Vacation_Itinerary folder with the following:
 
